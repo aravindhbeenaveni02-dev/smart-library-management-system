@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 📚 Smart Library Management System
 
-# Run and deploy your AI Studio app
+A modern and responsive Library Management System designed to simplify the management of books, students, circulation, returns, fines, and library reports.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/9ca4ddfd-227d-4fba-a1e4-fded2d55a6a0
+- 📊 Admin Dashboard
+- 📚 Book & Catalog Management
+- 👨‍🎓 Student/Member Management
+- 🔄 Book Issue & Return Management
+- 💰 Fine & Payment Tracking
+- 📈 Reports & Analytics
+- 👤 Admin Profile Management
+- ⚙️ Settings
+- 🔍 Quick Search
+- 📱 Responsive UI
+- 🎨 Modern Blue & Black Dashboard
 
-## Run Locally
+## 🛠️ Technologies Used
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
 
+## 📂 Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```text
+smart-library-management-system/
+│
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── data/
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── index.css
+│   └── types.ts
+│
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
