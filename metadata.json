@@ -1,0 +1,7 @@
+{
+  "name": "Smart Library Management System",
+  "description": "Modern, responsive Smart Library Management System featuring circulation desk, catalog search, member registry, due-date & fine tracking, and student portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
