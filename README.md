@@ -2,6 +2,12 @@
 
 A modern and responsive Library Management System designed to simplify the management of books, students, circulation, returns, fines, and library reports.
 
+## 🔗 Project Links
+
+🌐 **Live Demo:** [Smart Library Management System](https://smart-library-management-system-theta.vercel.app/)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/aravindhbeenaveni02-dev/smart-library-management-system)
+
 ## 🚀 Features
 
 - 📊 Admin Dashboard
@@ -45,3 +51,4 @@ smart-library-management-system/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
+
